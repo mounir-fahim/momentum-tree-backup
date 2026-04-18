@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-04-17T00:44:41.731Z",
+  "exportedAt": "2026-04-18T19:50:37.877Z",
   "blogPosts": [
     {
       "featured": false,
@@ -288,6 +288,97 @@
     }
   ],
   "services": [
+    {
+      "benefits": [
+        "Breaks up compacted soil mechanically without severing or damaging live roots",
+        "Restores oxygen, water, and nutrient access directly to the critical root zone — where compaction has been blocking it",
+        "Delivers soil amendments — organic matter, compost, biochar, mycorrhizae — deep into the root zone, not just at the surface",
+        "Root development within treated trenches is significantly greater than in untreated soil — confirmed in 14-year Morton Arboretum research",
+        "Performed non-destructively using compressed air — no blades, no heavy equipment, no mechanical root trauma",
+        "Can reverse or halt decline in trees suffering from chronic soil compaction, construction damage, or poor drainage",
+        "Supports mycorrhizal network reestablishment — critical to drought resistance, nutrient uptake, and long-term tree health (MSU Extension)"
+      ],
+      "process": [
+        {
+          "step": 1,
+          "title": "Root Zone Evaluation",
+          "description": "We assess the tree's health, canopy condition, site history, and soil conditions. We check compaction levels, drainage, and whether radial trenching is the right call — or whether something else would serve better."
+        },
+        {
+          "step": 2,
+          "title": "Trench Layout & Planning",
+          "description": "We map the radial trench pattern relative to the critical root zone — typically from near the trunk base out beyond the drip line — while accounting for utilities, hardscape, and existing root conflicts."
+        },
+        {
+          "step": 3,
+          "title": "Air Spade Excavation",
+          "description": "We excavate each radial trench using a high-pressure air spade. Compressed air breaks up compacted soil without cutting roots. We work methodically around the tree, opening the root zone for inspection and treatment."
+        },
+        {
+          "step": 4,
+          "title": "Root & Soil Inspection",
+          "description": "With trenches open, we inspect root condition, soil composition, moisture retention, and biological activity. This is often where the real cause of decline becomes clear."
+        },
+        {
+          "step": 5,
+          "title": "Soil Amendment & Backfill",
+          "description": "We blend a site-specific amendment mix — compost, biochar, coarse organic matter, and mycorrhizal inoculants as appropriate — and work it directly into the trench before backfilling."
+        },
+        {
+          "step": 6,
+          "title": "Post-Treatment Guidance",
+          "description": "We provide recommendations for mulching, irrigation, and monitoring, and advise on when a follow-up assessment makes sense to evaluate recovery."
+        }
+      ],
+      "isPublished": true,
+      "shortDescription": "Air spade-powered radial trenching to break up compacted soil, improve root zone conditions, and deliver lasting soil health around struggling trees.",
+      "title": "Radial Trenching",
+      "fullDescription": "Most trees don't die from what you can see above ground. They die from what's happening below it — compacted soil that suffocates roots, restricts oxygen exchange, and cuts off water and nutrient movement. By the time the canopy shows it, the damage underground has been building for years.\n\nRadial trenching is how we get ahead of it.\n\nIt's an advanced root zone intervention — one of the most effective tools available for trees suffering from chronic soil compaction, construction damage, or poor drainage. We open the critical root zone using specialized equipment and deliver targeted soil amendments directly where they're needed — deep in the root system, not surface-applied.\n\nThe results are both immediate and compounding. Roots regain access to oxygen, water, and nutrients that compaction had been blocking. Soil biology improves and sustains itself season after season. Trees that were slowly declining stabilize and recover.\n\nIf your tree is declining and you don't know why, this is often where the answer is.",
+      "metaDescription": "Radial trenching services in Novi, MI and Southeast Michigan. ISA Certified Arborists use air spade technology to break up compacted soil and restore root zone health for struggling trees. Call 248-221-2710.",
+      "serviceCategory": "Plant Health Care",
+      "imageUrl": "https://media.base44.com/images/public/69d65cfa3c9708e055888f34/e8485f9b3_IMG_3324.jpg",
+      "imageUrls": [
+        "https://media.base44.com/images/public/69d65cfa3c9708e055888f34/e8485f9b3_IMG_3324.jpg"
+      ],
+      "faq": [
+        {
+          "question": "What is radial trenching and how is it different from air spading?",
+          "answer": "Air spading is a tool and technique — using high-pressure compressed air to excavate soil safely around roots. Radial trenching is a specific application of that technique: excavating in a deliberate spoke pattern radiating outward from the trunk to open the entire critical root zone for treatment. Air spading alone can be used for diagnosis. Radial trenching is a full root zone intervention — diagnosis and treatment combined."
+        },
+        {
+          "question": "My tree looks fine. Do I still need this?",
+          "answer": "Possibly not. But trees often don't show visible decline until soil compaction has been causing damage for years. If your soil is chronically compacted — from heavy foot traffic, construction activity, heavy clay, or grade changes — radial trenching can prevent decline before it starts. Think of it as proactive care for a high-value tree, not a last resort."
+        },
+        {
+          "question": "Will this disrupt my lawn or landscape?",
+          "answer": "Yes — the trenches do disturb the surface, and that's inherent to the process. If surface disruption is a primary concern, vertical mulching may be worth considering: it involves drilling a grid of smaller holes rather than open trenches, and is less disruptive to the lawn. That said, radial trenching allows us to treat a significantly larger volume of soil and gives us direct access to inspect root condition — making it the more effective intervention in most situations where compaction is the core problem. Which approach makes more sense depends on the tree, the site, and what we find during the initial evaluation."
+        },
+        {
+          "question": "How long does radial trenching take?",
+          "answer": "It depends on tree size, root zone extent, and site conditions. A single mature tree typically takes a half-day to a full day of work. We'll give you a clear time and cost estimate before scheduling."
+        },
+        {
+          "question": "How soon will my tree respond?",
+          "answer": "Soil improvement is not an overnight process, but trees typically show measurable response within one to two growing seasons — improved canopy density, more vigorous new growth, and better leaf color. Trees with significant prior decline may take longer but will often show early signs of recovery in the first season."
+        },
+        {
+          "question": "Can radial trenching save a tree that's already in decline?",
+          "answer": "It depends on the stage of decline and the underlying cause. If compaction and poor soil conditions are the primary driver, radial trenching can be highly effective — even for trees showing significant canopy thinning. If the tree is structurally compromised or diseased beyond treatment, we'll tell you that honestly rather than recommend a service that won't help."
+        },
+        {
+          "question": "Does it matter who performs radial trenching?",
+          "answer": "Significantly. The air spade is a precision tool — it requires technique to avoid damaging surface roots, and it requires arboricultural knowledge to interpret what you find and create the right amendment mix for the specific site. We're ISA Certified Arborists. We use what we find in the trench to inform our treatment. This isn't a lawn care service — it's a science-based intervention that requires someone who understands tree biology and soil science to deliver real results."
+        }
+      ],
+      "tag": "Advanced",
+      "slug": "radial-trenching",
+      "id": "69e2db213f9abab651fc900f",
+      "created_date": "2026-04-18T01:15:13.660000",
+      "updated_date": "2026-04-18T02:48:50.274000",
+      "created_by_id": "69d65cfa3c9708e055888f35",
+      "created_by": "mounir@momentumtree.com",
+      "is_sample": false
+    },
     {
       "benefits": [
         "Stabilizes newly planted trees during the critical root establishment period",
