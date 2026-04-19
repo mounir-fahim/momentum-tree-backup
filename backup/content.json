@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-04-19T23:51:31.509Z",
+  "exportedAt": "2026-04-19T23:56:31.630Z",
   "blogPosts": [
     {
       "featured": false,
@@ -602,34 +602,34 @@
         "Hazard Mitigation: Removing dead, diseased, or structurally compromised trees that pose risk to people, property, or infrastructure",
         "Disease Control: Eliminating trees with untreatable disease that threatens the health of surrounding trees",
         "Property Protection: Preventing property damage from dead branches, falling limbs, or root damage to structures and utilities",
-        "Safety Assurance: Ensuring safe removal of hazardous trees using proper equipment, rigging, and certified techniques",
+        "Safety Planning: Every removal is assessed for the safest practical methodology before any work begins",
         "Infrastructure Preservation: Removing trees that interfere with utility lines, buildings, or critical infrastructure before damage occurs",
-        "Site Restoration: Comprehensive cleanup and debris removal, with stump grinding or treatment to restore full site usability",
+        "Stump Management Options: Stump grinding may be scheduled as part of the project or as a separate service based on your needs",
         "Liability Reduction: Removing hazardous trees proactively to mitigate legal and insurance risks from property damage or injury",
-        "Environmental Stewardship: Properly disposing of wood waste through chipping, mulching, or responsible salvage whenever possible",
+        "Environmental Responsibility: Wood waste managed through chipping, mulching, or responsible salvage whenever possible",
         "Landscape Renewal: Creating space for new plantings or landscape redesign after a tree's useful life has ended",
-        "Peace of Mind: Expert assessment ensures removal is truly necessary, not a sales tactic—preservation is our first option"
+        "Preservation First: Every assessment explores whether the tree can be saved before removal is recommended"
       ],
       "process": [
         {
+          "step": 1,
           "title": "Thorough Hazard Assessment",
-          "description": "Our ISA Certified Arborist conducts a comprehensive evaluation to determine if the tree can be preserved, treated, or must be removed. We explore all alternatives—pruning, cabling, targeted treatment—before recommending removal.",
-          "step": 1
+          "description": "Our ISA Certified Arborist conducts a comprehensive evaluation to determine if the tree can be preserved, treated, or must be removed. We explore all alternatives — pruning, cabling, targeted treatment — before recommending removal."
         },
         {
+          "step": 2,
           "title": "Safe Removal Planning",
-          "description": "We develop a comprehensive removal plan considering the tree's size, location, structure, proximity to buildings/utilities, and site constraints. Proper rigging sequences, equipment selection, and safety protocols are established.",
-          "step": 2
+          "description": "We develop a removal plan considering the tree's size, location, structure, proximity to buildings and utilities, and site constraints. The safest practical method is selected for the specific site."
         },
         {
+          "step": 3,
           "title": "Technical Removal Execution",
-          "description": "Our certified crew executes the removal using industry-best practices. Large trees are systematically sectioned and lowered; smaller trees are felled safely. Every cut prioritizes worker safety and property protection.",
-          "step": 3
+          "description": "Our crew carries out the removal using industry-standard practices. Large trees are systematically sectioned and lowered; smaller trees are felled safely. Every cut prioritizes worker safety and property protection."
         },
         {
+          "step": 4,
           "title": "Site Restoration & Stump Management",
-          "description": "We provide complete site cleanup, debris removal, and chipping. Stumps can be ground below grade for landscape restoration, treated for regrowth prevention, or left for natural decomposition based on your preferences.",
-          "step": 4
+          "description": "We provide site cleanup and debris removal. Stumps can be ground as part of the project scope or scheduled separately based on your needs and the agreed proposal."
         }
       ],
       "imageUrl": "https://cdn.prod.website-files.com/65c27ead891d81b4904af766/67c9b868f3be10b069b07d69_tree-removal_2025.jpg",
@@ -667,16 +667,17 @@
           "answer": "The most common feedback we hear from clients who went with cheaper quotes is that they're surprised in some capacity—unexpected property damage, unprofessional crews, close calls or dangerous 'cowboy' acts, poor communication, and unmet expectations. Those savings evaporate quickly when damage occurs. At Momentum, we prioritize safety, clear communication, professional execution, and proper planning. We ensure you're thrilled through and through—not just saving a few dollars today only to regret it tomorrow. Expert removal protects your property, your safety, and gives you peace of mind."
         }
       ],
-      "shortDescription": "Technical removal performed only when necessary — safely, efficiently, and with respect.",
+      "shortDescription": "Safe, low-impact tree removal led by certified arborist assessment — planned carefully, executed with respect for the site.",
       "tag": "Last Resort",
       "title": "Tree Removal",
-      "fullDescription": "Tree removal is a last resort. We exhaust every preservation and treatment option before recommending removal. When removal becomes necessary — due to disease, structural failure, hazard, or safety risk — we execute with precision, expertise, and respect for the tree and your property. Every removal is planned with safety as the paramount concern, proper equipment deployed, and the site restored to its original condition.",
-      "metaDescription": "Expert tree removal only when necessary. Safe, technical removal by ISA Certified Arborists. Preservation-first approach.",
+      "fullDescription": "Momentum Tree Experts provides comprehensive tree removal service throughout Southeast Michigan, led by ISA Certified Arborists. When a tree on your property poses a structural risk, has failed, or can no longer be safely preserved, our team focuses on tree removals planned with safety, property protection, and low-impact methods in mind.\n\nEvery tree removal project begins with a thorough arborist assessment. We evaluate the tree's condition, its proximity to structures, and the safest methodology. Our team plans the work carefully and selects the safest practical method for the site. Whether it is a hazardous tree removal, a large tree removal, or the delicate process of dead tree removal, our team carries out the work with careful control and planning. We handle complex situations, including those requiring crane tree removal to support precise, controlled removal in challenging spaces.\n\nMomentum's approach is built around clear assessment, careful planning, and respect for the property around the tree. We differentiate from typical tree cutting service providers by focusing on a professional process that supports a safer, more professional result.",
+      "metaDescription": "Expert tree removal service in Southeast Michigan by ISA Certified Arborists. Specializing in safe, low-impact removal of hazardous, large, and dead trees with careful property protection.",
       "slug": "tree-removal",
       "isPublished": true,
+      "seoTitle": "Tree Removal Service in Southeast Michigan | Certified Arborists",
       "id": "69d696f36d93c8d9afaf8279",
       "created_date": "2026-04-08T17:57:07.280000",
-      "updated_date": "2026-04-13T22:32:34.149000",
+      "updated_date": "2026-04-19T23:51:58.321000",
       "created_by_id": "69d65cfa3c9708e055888f35",
       "created_by": "mounir@momentumtree.com",
       "is_sample": false
@@ -752,17 +753,18 @@
           "answer": "Strategic pruning is an investment in your tree's future. The cost is far less than emergency removal, storm damage repairs, or liability claims from fallen branches. Improper pruning by untrained teams—using techniques like topping, flush cuts, or excessive removal—causes severe tree damage, disease, and structural failure that lead to far more expensive problems down the road, including premature removal or emergency work. A healthy, well-structured tree lasts decades, increases property value, and prevents costly problems — making science-based pruning one of the best long-term investments in your landscape."
         }
       ],
-      "shortDescription": "Strategic pruning emphasizing tree biology, structure, and long-term vitality.",
+      "shortDescription": "Biology-based, ANSI A300-guided structural pruning by certified arborists — focused on long-term tree health, mature tree care, and preservation.",
       "tag": "Preservation",
       "title": "Tree Pruning",
-      "fullDescription": "Tree pruning is a science-based approach to branch removal that prioritizes the health, structural integrity, and long-term vitality of the tree above all other objectives. Unlike cosmetic trimming, strategic pruning follows ISA standards and tree biology to develop robust branch architecture, prevent disease, and ensure decades of healthy growth. Every cut is made with the tree's future in mind — not convenience or quick aesthetics.",
-      "metaDescription": "ISA-standard tree pruning for long-term health, structural strength, and vitality. Health-first approach for residential and commercial trees.",
+      "fullDescription": "Momentum Tree Experts delivers expert tree pruning service across Southeast Michigan, led by ISA Certified Arborists. Our approach to tree pruning is science-based and preservation-minded, focusing on the long-term health and structural integrity of your trees. We apply proper tree pruning techniques rooted in tree biology, guided by ANSI A300 standards, so each cut has a clear purpose.\n\nTree pruning is a technical discipline focused on cultivating strong, healthy trees. For mature trees, this often involves delicate work to improve their architecture, manage the crown, and reduce future risk. We avoid harmful practices like topping or over-thinning, which can significantly shorten a tree's viable lifespan. While tree trimming often focuses on general clearance and appearance, our tree pruning service delves deeper into the tree's biology and structural needs.\n\nWhether you need specialized oak tree pruning, careful maple tree pruning, or professional attention for other species, our certified arborists provide recommendations grounded in tree biology, structure, and seasonal timing.\n\nMomentum's certified arborist tree pruning is guided by ANSI A300 pruning standards and is intended to support long-term health, reduce avoidable risk, and preserve the tree's natural form.",
+      "metaDescription": "ISA Certified Arborists specialize in biology-based tree pruning service in Southeast Michigan. We provide structural tree pruning guided by ANSI A300 standards for optimal tree health, risk reduction, and longevity.",
       "slug": "tree-pruning",
       "imageUrls": null,
       "isPublished": true,
+      "seoTitle": "Expert Tree Pruning Service in Southeast MI | ISA Certified Arborists",
       "id": "69d695a19f91e12492d70782",
       "created_date": "2026-04-08T17:51:29.683000",
-      "updated_date": "2026-04-13T22:32:34.133000",
+      "updated_date": "2026-04-19T23:51:58.864000",
       "created_by_id": "69d65cfa3c9708e055888f35",
       "created_by": "mounir@momentumtree.com",
       "is_sample": false
@@ -825,16 +827,17 @@
           "answer": "Tree trimming focuses on your immediate needs—safety, access, views, and aesthetics. Tree pruning emphasizes long-term biological health and structural development. Both are valuable; the right choice depends on your goals."
         }
       ],
-      "shortDescription": "Selective branch removal and reduction for aesthetic clarity and functional purposes — shaping how your tree looks and how it fits its environment. Tree health plays a supporting role here, not the lead. When appearance or clearance is the goal, trimming is the right tool — and doing it right takes more than a ladder and a saw.",
+      "shortDescription": "Selective branch removal and clearance work guided by arborist judgment and ANSI A300 standards — managing how your tree looks and fits its environment without compromising its health.",
       "tag": "Preservation",
       "title": "Tree Trimming",
-      "fullDescription": "Tree trimming is the deliberate, selective removal or reduction of branches where the primary driver is aesthetic or functional — not biological. You want a cleaner sight line, better curb appeal, clearance from a structure, or a more intentional shape. Those are legitimate, valid reasons to touch a tree. They just require a different mindset than pruning for tree health.\n\nWhere pruning prioritizes the tree's biology — removing deadwood, improving structure, reducing disease pressure — trimming prioritizes form and function in the human environment. Think: clearing branches from a roofline, shaping an ornamental for visual symmetry, or opening up a view corridor. Tree health and structural strength are secondary considerations, not the primary goal.\n\nThat distinction matters. A crew without formal training will often default to aggressive cuts regardless of the objective — removing too much, cutting in the wrong place, and leaving wounds that compromise the tree's long-term health even when the job was supposed to be cosmetic. Our ISA Certified Arborists approach trimming with the same precision and knowledge as any other service: making cuts that achieve your aesthetic goals while minimizing unnecessary stress to the tree.\n\nTree trimming done right is an art form backed by science — even when beauty is the point.",
-      "metaDescription": "Professional tree trimming to improve safety, enhance views, protect structures, and elevate your landscape's appearance. Novi, Michigan.",
+      "fullDescription": "Momentum Tree Experts offers professional tree trimming service throughout Southeast Michigan, guided by ISA Certified Arborists. Tree trimming is often the word homeowners use when branches are getting too close to a roof, driveway, walkway, or structure. We use that practical concern as the starting point, then apply arborist judgment so the solution does not create a long-term tree health problem.\n\nWhere pruning prioritizes the tree's biology — removing deadwood, improving structure, reducing disease pressure — trimming prioritizes form and function in the human environment. Think: clearing branches from a roofline, shaping an ornamental for visual symmetry, or opening up a view corridor.\n\nOur tree trimming recommendations and work are guided by ANSI A300 standards, focusing on the long-term health and structural integrity of your trees. This means we aim to improve the tree's natural form, distribute weight evenly, and reduce potential hazards.\n\nOur ISA Certified Arborists provide honest recommendations tailored to your trees' specific needs, so the work supports the tree instead of simply removing branches.",
+      "metaDescription": "ISA Certified Arborists provide expert tree trimming service in Southeast Michigan. Structural tree trimming, guided by ANSI A300 standards, for tree health, risk reduction, and property clearance.",
       "slug": "tree-trimming",
       "isPublished": true,
+      "seoTitle": "Professional Tree Trimming Service in Southeast MI | ISA Certified Arborists",
       "id": "69d67e2caf00a7d20cce7e3b",
       "created_date": "2026-04-08T16:11:24.203000",
-      "updated_date": "2026-04-13T22:32:34.183000",
+      "updated_date": "2026-04-19T23:51:58.342000",
       "created_by_id": "69d65cfa3c9708e055888f35",
       "created_by": "mounir@momentumtree.com",
       "is_sample": false
@@ -1060,106 +1063,108 @@
     },
     {
       "benefits": [
-        "Direct coordination with insurance providers for seamless claim processing",
-        "Rapid emergency response to prevent further damage and loss",
-        "Professional documentation for insurance claims",
-        "Expert safety assessment and hazard mitigation",
-        "Relationship building with arborists who understand prevention",
-        "Comprehensive recovery planning to restore your property"
+        "Arborist-led assessment of storm-damaged trees to identify what poses immediate concern versus what can be planned",
+        "Emergency tree removal of compromised or fallen trees that pose immediate hazards",
+        "Careful identification and removal of hanging limbs and unstable sections of storm-damaged trees",
+        "Safety-first approach — utility line situations are escalated to the appropriate provider before any work near energized lines",
+        "Documentation that may help support an insurance tree removal claim",
+        "Clear communication throughout the process about what was done and what, if anything, requires follow-up attention"
       ],
       "process": [
         {
           "step": 1,
           "title": "Emergency Assessment",
-          "description": "Rapid on-site evaluation of all storm damage, hazards, and scope of work needed."
+          "description": "On-site evaluation of storm damage, hazards, and scope of work needed. Utility line situations are identified and directed to the appropriate provider before any work near those areas."
         },
         {
           "step": 2,
-          "title": "Insurance Coordination",
-          "description": "Direct communication with your insurance provider to document damage and discuss coverage."
+          "title": "Insurance Documentation",
+          "description": "Detailed assessment documentation provided that may help support your insurance claim. We communicate clearly about damage scope and what work is being performed."
         },
         {
           "step": 3,
           "title": "Hazard Mitigation",
-          "description": "Immediate removal of hanging limbs, dangerous debris, and unstable trees to secure your property."
+          "description": "Planned removal or mitigation of compromised or fallen trees that pose immediate concerns — hanging limbs, unstable sections, and debris that creates ongoing risk."
         },
         {
           "step": 4,
           "title": "Recovery Planning",
-          "description": "Develop a comprehensive plan for salvaging viable trees and restoring landscape aesthetics."
+          "description": "Assessment of which trees may be viable for preservation through pruning or cabling versus which require removal. A clear plan is communicated before work proceeds."
         },
         {
           "step": 5,
-          "title": "Completion & Documentation",
-          "description": "Full cleanup, final documentation for insurance, and recommendations to prevent future failures."
+          "title": "Completion & Follow-Up",
+          "description": "Full cleanup and final documentation. Recommendations provided for any follow-up tree care to reduce risk from trees that sustained partial damage."
         }
       ],
       "imageUrl": "https://media.base44.com/images/public/69d65cfa3c9708e055888f34/4288d1c1c_IMG_0565.jpg",
       "faq": [
         {
           "question": "How quickly can you respond to a storm emergency?",
-          "answer": "We prioritize emergency calls and typically respond within hours of contact, depending on demand during major storm events."
+          "answer": "We prioritize emergency calls and work to respond as promptly as conditions allow. Response times during major storm events depend on demand and safe access to the site. We will communicate clearly about timing when you contact us."
         },
         {
-          "question": "Do you work directly with insurance companies?",
-          "answer": "Yes, we coordinate directly with insurers to document damage, discuss coverage, and streamline the claims process for you."
+          "question": "What should I do if a tree fell on a power line?",
+          "answer": "Do not approach the tree or the area near the line. Contact your utility company immediately. Energized lines require utility involvement before any tree work can safely begin. Once the utility company has addressed the line, we can assess and address the tree."
         },
         {
-          "question": "Can you save a tree that's been split by a storm?",
-          "answer": "Sometimes. We assess each tree individually. Some split trees can recover with proper pruning and cabling, while others may need removal. We'll recommend the best course of action."
+          "question": "Can you help with insurance documentation?",
+          "answer": "Yes. We provide detailed written assessments and documentation of the damage and work performed that may help support your insurance claim. We communicate clearly throughout the process about what we observed and what was done."
         },
         {
-          "question": "Do you offer 24/7 emergency services?",
-          "answer": "Yes, we're available for emergency storm damage response around the clock. Call us immediately when storm damage occurs."
+          "question": "Can you save a tree that has been split by a storm?",
+          "answer": "Sometimes. We assess each tree individually. Some split trees can be stabilized with proper pruning and cabling, while others may require removal. We will give you an honest recommendation after evaluating the tree's condition."
         },
         {
-          "question": "What's included in your storm damage response?",
-          "answer": "Assessment, hazard mitigation, insurance coordination, recovery planning, debris removal, and recommendations to prevent future damage."
+          "question": "What is included in your storm damage response?",
+          "answer": "Assessment of tree damage and hazard identification, planned removal or mitigation of trees posing immediate concerns, debris management, documentation that may assist with insurance claims, and recommendations for any follow-up tree care."
         }
       ],
-      "shortDescription": "Rapid, safe response to storm-damaged trees with expert triage and recovery planning.",
+      "shortDescription": "Safety-first storm damage assessment and emergency tree removal — calm, professional response with clear communication and documentation that may assist with insurance claims.",
       "tag": "Emergency",
       "title": "Storm Damage Response",
-      "fullDescription": "When storms strike, immediate action is critical to prevent further damage and loss. We respond to emergency situations with urgency and expertise, working directly with your insurance company to streamline the entire process. Our team assesses the damage quickly, secures hazardous conditions, documents everything for your claim, and begins recovery work immediately to mitigate additional loss. You don't navigate insurance procedures alone—we handle the coordination so you can focus on recovery.",
-      "metaDescription": "Emergency storm damage response in Novi, MI. Quick tree damage assessment and cleanup.",
+      "fullDescription": "Momentum Tree Experts provides emergency tree service and storm damage response throughout Southeast Michigan. When severe weather strikes, fallen trees or damaged limbs can create immediate hazards to your property and safety. Our ISA Certified Arborists can assess storm-damaged trees and help address urgent tree-related hazards when conditions allow, offering professional emergency tree removal and cleanup.\n\nWe understand the stress and urgency that come with a tree fell on house scenario. If a tree has fallen on a power line, it is crucial to prioritize safety and contact the utility company immediately — homeowners should not approach energized lines. Our priority is always safety, followed by careful removal of storm-damaged trees. We provide a calm, arborist-led assessment of the damage and clear communication about the necessary steps.\n\nOur expertise also includes providing documentation that may help with an insurance claim, which can be valuable during your recovery process.",
+      "metaDescription": "Emergency tree service and storm damage tree removal in Southeast Michigan. ISA Certified Arborists provide safe cleanup, hazardous tree assessment, and documentation that may help with insurance claims after storms.",
       "slug": "storm-damage-response",
       "imageUrls": null,
       "isPublished": true,
+      "seoTitle": "Emergency Tree Service & Storm Damage Response in Southeast MI",
       "id": "69d6777a96ea190c515af0c9",
       "created_date": "2026-04-08T15:42:50.058000",
-      "updated_date": "2026-04-13T22:32:34.079000",
+      "updated_date": "2026-04-19T23:51:59.237000",
       "created_by_id": "69d65cfa3c9708e055888f35",
       "created_by": "mounir@momentumtree.com",
       "is_sample": false
     },
     {
       "benefits": [
-        "Complete stump removal",
-        "Clean property appearance",
-        "Enables replanting",
-        "No regrowth",
-        "Professional equipment"
+        "Removes the visible stump and accessible root crown area to the agreed grinding depth",
+        "Helps reduce the chance of regrowth from the stump, depending on species and depth",
+        "Clears the space for new plantings, lawn restoration, or hardscaping based on the project scope",
+        "Can reduce the nuisance and pest concerns associated with old, decaying stumps",
+        "Can be scheduled as part of a tree removal project or as a standalone service",
+        "Work is carried out with attention to surrounding lawn, plants, and structures"
       ],
       "process": [
         {
+          "step": 1,
           "title": "Assessment",
-          "description": "We evaluate stump size and location.",
-          "step": 1
+          "description": "We evaluate the stump's size, location, accessibility, species, and surrounding site conditions to determine the appropriate grinding approach and depth for the project."
         },
         {
+          "step": 2,
           "title": "Setup",
-          "description": "Equipment is positioned safely.",
-          "step": 2
+          "description": "Equipment is positioned carefully and protective shields are placed where appropriate to minimize impact on surrounding lawn, plants, and structures."
         },
         {
-          "title": "Grinding",
-          "description": "Stump is ground below ground level.",
-          "step": 3
+          "step": 3,
+          "title": "Stump Grinding to Depth",
+          "description": "The stump is ground to the agreed depth. Grinding the visible stump and accessible root crown area is performed as appropriate for the project."
         },
         {
-          "title": "Cleanup",
-          "description": "Area is cleared and cleaned.",
-          "step": 4
+          "step": 4,
+          "title": "Site Management",
+          "description": "Wood chip material is managed based on the agreed proposal — left as mulch fill or removed from the property based on your preference and the project scope."
         }
       ],
       "imageUrl": "https://media.base44.com/images/public/69d65cfa3c9708e055888f34/a65a7e4be_IMG_6465.jpg",
@@ -1197,17 +1202,18 @@
           "answer": "No—in most cases, the stump won't regrow. However, some tree species have prolific root systems that can proliferate for years if not treated properly. This is precisely why you need certified arborists with proper credentials and education. Proper depth grinding and treatment prevent future issues and wasted money."
         }
       ],
-      "shortDescription": "Complete stump elimination with protective shields and deep grinding (8-12 inches) to prevent settling, regrowth, and property damage.",
+      "shortDescription": "Professional stump grinding to the agreed depth — a practical solution for clearing unwanted stumps after removal or as a standalone service.",
       "tag": "Cleanup",
       "title": "Stump Grinding",
-      "fullDescription": "Most stump grinding companies grind at surface level and leave you vulnerable to settling, regrowth, and pest problems. At Momentum Tree Experts, we go deeper.\n\nWe grind 8-12 inches below grade to eliminate settling and prevent root proliferation. We use protective shields on every job—a costly precaution competitors skip—which dramatically reduces property damage. Our ISA Certified Arborists understand tree biology and treat each species properly based on regrowth risk.\n\nThe result: a clean, level surface. No settling. No regrowth. Done right the first time.",
-      "metaDescription": "Professional stump grinding in Novi, MI. Complete stump removal.",
+      "fullDescription": "Momentum Tree Experts offers professional stump grinding service throughout Southeast Michigan, providing a practical solution for unwanted tree stumps. After a tree has been removed, the remaining stump can be an obstruction for landscaping plans. Our professional stump grinding service ensures tree stump removal to the agreed depth, helping leave the area ready for the next step, based on the agreed scope.\n\nOur equipment can efficiently handle stumps of various sizes, working to minimize disruption to your surrounding landscape. We reduce the stump and its main root crown into wood chips, which can be managed based on the specifics of our proposal. This process clears the space, helps reduce the chance of regrowth from the stump, and can reduce the nuisance and pest concerns associated with old stumps.\n\nStump grinding may be scheduled alongside a tree removal or as a standalone service for existing stumps on your property. Our team carries out the work carefully and to the scope agreed upon before the job begins.",
+      "metaDescription": "Momentum Tree Experts provides professional stump grinding service in Southeast Michigan. We offer thorough tree stump removal to the agreed depth, helping prepare the area for the next step.",
       "slug": "stump-grinding",
       "imageUrls": null,
       "isPublished": true,
+      "seoTitle": "Stump Grinding Service in Southeast MI | Thorough Stump Removal",
       "id": "69d6777a96ea190c515af0ca",
       "created_date": "2026-04-08T15:42:50.058000",
-      "updated_date": "2026-04-13T22:32:34.095000",
+      "updated_date": "2026-04-19T23:51:59.019000",
       "created_by_id": "69d65cfa3c9708e055888f35",
       "created_by": "mounir@momentumtree.com",
       "is_sample": false
